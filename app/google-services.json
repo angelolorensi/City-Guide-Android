@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "19383607809",
+    "project_id": "cityguidetutorial-cec02",
+    "storage_bucket": "cityguidetutorial-cec02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19383607809:android:4a223648469f3e26765600",
+        "android_client_info": {
+          "package_name": "com.example.cityguidetutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19383607809-d8veou8gadaqepa0cc928lvlbu67pktd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs78S9vLaWbIfN7lRDBFbebdk23uAthvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19383607809-d8veou8gadaqepa0cc928lvlbu67pktd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
